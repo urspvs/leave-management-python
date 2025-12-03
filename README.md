@@ -1,5 +1,3 @@
-# leave-management-python
-Leave tracking app using Python, Streamlit, SQLite
 [README.md](https://github.com/user-attachments/files/23913122/README.md)
 # ACME Leave Management System 🏢
 
